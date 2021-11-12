@@ -1,0 +1,23 @@
+{
+  "posts": [],
+  "signup": [
+    {
+      "name": "RKD",
+      "email": "dubeyrohan969@gmail.com",
+      "mobile": "9076764320",
+      "password": "123456789",
+      "id": 1
+    },
+    {
+      "name": "Sharmila",
+      "email": "sharmiladubey111@gmail.com",
+      "mobile": "9876543210",
+      "password": "123456789",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}

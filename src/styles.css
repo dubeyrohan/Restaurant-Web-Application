@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image:url(https://static.onecms.io/wp-content/uploads/sites/9/2021/05/17/Skillet-Grilled-Spatchcocked-Chicken-FT-RECIPE0521.jpg);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    opacity: .85;
+    font-style: italic;
+    font-style: bold;
+    
+}

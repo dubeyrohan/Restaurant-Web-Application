@@ -1,0 +1,19 @@
+.container{
+    background-image:url(https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/1/2016/11/301116_KFCs-Smoky-Grilled-Chicken.jpg);
+    background-size: full;
+    color: rgb(0, 0, 0);
+    opacity: .9;
+    
+}
+
+.card{
+    margin-top: 15px;
+    border: 1px solid black;
+    width: 550px;
+    padding: 45px;
+    position: absolute;
+    top: 10%;
+    left: 35%;
+
+
+}
